@@ -4,10 +4,9 @@ const fs = require("fs");
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
-  
-  const totalPages = 3;
 
-  const allPropertyData = [];
+  const totalPages = 3;
+  const allPropertyData = new Set();
 
   for (let num_page = 1; num_page <= totalPages; num_page++) {
     await page.goto(
@@ -17,8 +16,9 @@ const fs = require("fs");
     const list_card = await page.evaluate(() => {
       const nodeList = document.querySelectorAll(".result-card");
       const cardList = [...nodeList];
+      const propertyData = [];
 
-      const propertyData = cardList.map((item) => {
+      cardList.forEach((item) => {
         const propertyInfo = {};
 
         const locationElement = item.querySelector(".card__address");
@@ -67,18 +67,24 @@ const fs = require("fs");
           ? highlightsElement.textContent.trim()
           : "";
 
-        return propertyInfo;
+        propertyData.push(propertyInfo);
       });
 
       return propertyData;
     });
 
-    allPropertyData.push(...list_card);
-    
+    list_card.forEach((card) => {
+      allPropertyData.add(JSON.stringify(card));
+    });
+
     await page.waitForTimeout(3000);
   }
 
-  fs.writeFileSync("card.json", JSON.stringify(allPropertyData, null, 2), (err) => {
+  const uniquePropertyData = Array.from(allPropertyData).map((jsonString) =>
+    JSON.parse(jsonString)
+  );
+
+  fs.writeFileSync("card.json", JSON.stringify(uniquePropertyData, null, 2), (err) => {
     if (err) throw new Error("error");
     console.log("done!");
   });

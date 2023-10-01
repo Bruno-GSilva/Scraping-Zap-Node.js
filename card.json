@@ -1,12 +1,12 @@
 [
   {
-    "Localização": "Engenheiro Luciano Cavalcante, Fortaleza",
-    "Endereço": "Rua Ricardo Castro Macedo",
-    "Descrição": "Terreno, esquina, duas frentes, 1071m², próximo ao novo prédio do TRE-CE, localização privilegiada.",
+    "Localização": "Parangaba, Fortaleza",
+    "Endereço": "Avenida Godofredo Maciel",
+    "Descrição": "Excelente oportunidade: terreno de quase 3.000m² de área com 155 metros de frentes voltadas para a Av. Godofredo Maciel e as ruas Monte Serrat e Anápolis. Localização excelente, no coração da Parangaba, a apenas 500 metros do Shopping Parangaba e das estações Parangaba do Metrô e do VLT e a 10 minutos do Aeroporto Internacional Pinto Martins. \nDireto com os proprietários!",
     "Contato": "Mensagem",
-    "Tamanho": "1071 m²",
-    "Preço Total": "Total R$ 3.500",
-    "Aluguel": "Aluguel  de R$ 3.500",
+    "Tamanho": "3000 m²",
+    "Preço Total": "Total R$ 25.000",
+    "Aluguel": "Aluguel  de R$ 25.000",
     "Destaques": "Super Destaque"
   },
   {
@@ -30,41 +30,21 @@
     "Destaques": "Super Destaque"
   },
   {
-    "Localização": "Meireles, Fortaleza",
-    "Endereço": "Rua Pereira Valente",
-    "Descrição": "RUA PEREIRA VALENTE, 578, VAGAS 119, 120 E 121 na torre comercial PALLADIUM BUSINESS CENTER em plena Praça Portugal.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 700",
-    "Aluguel": "Aluguel  de R$ 700",
-    "Destaques": "Super Destaque"
-  },
-  {
     "Localização": "Papicu, Fortaleza",
-    "Endereço": "Rua Pereira de Miranda",
-    "Descrição": "Terreno com 396m², entre as Ruas Cesar Fonseca e Almeida Prado, murado, excelente localização, próximo ao shopping Rio Mar.",
+    "Endereço": "Avenida Santos Dumont",
+    "Descrição": "Vaga de garagem no Ed. Planalto Center, localizado na Av. Santos Dumont, esquina com a Rua Valdetário Mota.\nDispomos também de salas, lojas e conjuntos comerciais.\nConfira o vídeo desse Centro Comercial no Canal do youtube da Alessandro Belchior Imóveis(https://youtu.be/QXEIrLDD-Kk).",
     "Contato": "Mensagem",
-    "Tamanho": "396 m²",
-    "Preço Total": "Total R$ 2.000",
-    "Aluguel": "Aluguel  de R$ 2.000",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Papicu, Fortaleza",
-    "Endereço": "Rua Pereira de Miranda",
-    "Descrição": "Terreno com 396m², entre as Ruas Cesar Fonseca e Almeida Prado, murado, excelente localização, próximo ao shopping Rio Mar.",
-    "Contato": "Mensagem",
-    "Tamanho": "396 m²",
-    "Preço Total": "Total R$ 2.000",
-    "Aluguel": "Aluguel  de R$ 2.000",
-    "Destaques": "Super Destaque"
+    "Tamanho": "8 m²",
+    "Preço Total": "Total R$ 350",
+    "Aluguel": "Aluguel  de R$ 350",
+    "Destaques": "Destaque"
   },
   {
     "Localização": "Centro, Fortaleza",
     "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem no centro de Fortaleza.",
+    "Descrição": "Vaga de garagem.",
     "Contato": "Mensagem",
-    "Tamanho": "6 m²",
+    "Tamanho": "8 m²",
     "Preço Total": "Total R$ 350",
     "Aluguel": "Aluguel  de R$ 350",
     "Destaques": "Destaque"
@@ -80,126 +60,6 @@
     "Destaques": "Destaque"
   },
   {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "8 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "8 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Papicu, Fortaleza",
-    "Endereço": "Rua Ávila Goulart",
-    "Descrição": "Oportunidade para seu negócio! Terreno com 366m² no bairro Papicu, localizado na rua Ávila Goulart, a poucos metros das avenidas Engenheiro Santana Jr. e Alberto Sá, região com diversos estabelecimentos comerciais, aquecida para negócios! Aproveite a oportunidade!",
-    "Contato": "Mensagem",
-    "Tamanho": "366 m²",
-    "Preço Total": "Total R$ 2.500",
-    "Aluguel": "Aluguel  de R$ 2.500",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Papicu, Fortaleza",
-    "Endereço": "Rua Ávila Goulart",
-    "Descrição": "Oportunidade para seu negócio! Terreno com 366m² no bairro Papicu, localizado na rua Ávila Goulart, a poucos metros das avenidas Engenheiro Santana Jr. e Alberto Sá, região com diversos estabelecimentos comerciais, aquecida para negócios! Aproveite a oportunidade!",
-    "Contato": "Mensagem",
-    "Tamanho": "366 m²",
-    "Preço Total": "Total R$ 2.500",
-    "Aluguel": "Aluguel  de R$ 2.500",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "8 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "8 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
     "Localização": "Aldeota, Fortaleza",
     "Endereço": "Avenida Santos Dumont",
     "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
@@ -210,13 +70,83 @@
     "Destaques": "Destaque"
   },
   {
+    "Localização": "Centro, Fortaleza",
+    "Endereço": "Rua Pedro Borges",
+    "Descrição": "Vaga de garagem.",
+    "Contato": "Mensagem",
+    "Tamanho": "6 m²",
+    "Preço Total": "Total R$ 350",
+    "Aluguel": "Aluguel  de R$ 350",
+    "Destaques": "Destaque"
+  },
+  {
     "Localização": "Aldeota, Fortaleza",
     "Endereço": "Avenida Santos Dumont",
     "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
     "Contato": "Mensagem",
     "Tamanho": "",
+    "Preço Total": "Total R$ 250",
+    "Aluguel": "Aluguel  de R$ 250",
+    "Destaques": "Destaque"
+  },
+  {
+    "Localização": "Sapiranga, Fortaleza",
+    "Endereço": "Avenida Washington Soares",
+    "Descrição": "Espaço de 6m² para quiosque na melhor localização da Av. Washington Soares,esquina com Av.Edilson Brasil Soares, pátio com diversos segmentos e bancos, excelente oportunidade para seu negócio. Taxa de condomínio não incluso no aluguel.",
+    "Contato": "Mensagem",
+    "Tamanho": "6 m²",
+    "Preço Total": "Total R$ 1.500",
+    "Aluguel": "Aluguel  de R$ 1.500",
+    "Destaques": "Destaque"
+  },
+  {
+    "Localização": "Dionisio Torres, Fortaleza",
+    "Endereço": "Avenida Pontes Vieira",
+    "Descrição": "GARAGEM para alugar no bairro DIONÍSIO TORRES",
+    "Contato": "Mensagem",
+    "Tamanho": "9 m²",
     "Preço Total": "Total R$ 180",
     "Aluguel": "Aluguel  de R$ 180",
+    "Destaques": "Destaque"
+  },
+  {
+    "Localização": "Meireles, Fortaleza",
+    "Endereço": "Rua Silva Paulet",
+    "Descrição": "Excelente terreno com localização privilegiada no Meireles, próximo ao Palácio da Abolição, 308m², murado.",
+    "Contato": "Mensagem",
+    "Tamanho": "308 m²",
+    "Preço Total": "Total R$ 3.500",
+    "Aluguel": "Aluguel  de R$ 3.500",
+    "Destaques": "Super Destaque"
+  },
+  {
+    "Localização": "Jangurussu, Fortaleza",
+    "Endereço": "Rua Rio Jordão",
+    "Descrição": "Terreno medindo 15 x 11 metros, com 1 suíte, sala, cozinha e área de serviço, excelente para depósitos, oficinas, murado, localização privilegiada.",
+    "Contato": "Mensagem",
+    "Tamanho": "165 m²",
+    "Preço Total": "Total R$ 800",
+    "Aluguel": "Aluguel  de R$ 800",
+    "Destaques": "Super Destaque"
+  },
+  {
+    "Localização": "Jangurussu, Fortaleza",
+    "Endereço": "Rua Rio Jordão",
+    "Descrição": "Terreno próximo a BR 116, com 02 casas, piscina, amplo espaço, excelente para galpões, transportadoras, sede de empresas, clubes, plano e murado.",
+    "Contato": "Mensagem",
+    "Tamanho": "7500 m²",
+    "Preço Total": "Total R$ 5.000",
+    "Aluguel": "Aluguel  de R$ 5.000",
+    "Destaques": "Destaque"
+  },
+  {
+    "Localização": "Aldeota, Fortaleza",
+    "Endereço": "Avenida Santos Dumont",
+    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
+    "Contato": "Mensagem",
+    "Tamanho": "",
+    "Preço Total": "Total R$ 225",
+    "Aluguel": "Aluguel  de R$ 225",
     "Destaques": "Destaque"
   },
   {
@@ -230,179 +160,9 @@
     "Destaques": "Destaque"
   },
   {
-    "Localização": "Vicente Pinzon, Fortaleza",
-    "Endereço": "Avenida Engenheiro Luiz Vieira",
-    "Descrição": "Excelente terreno de 100m X 90m, próximo ao Buffet La Maison Dunas.",
-    "Contato": "Mensagem",
-    "Tamanho": "9000 m²",
-    "Preço Total": "Total R$ 48.000",
-    "Aluguel": "Aluguel  de R$ 48.000",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Centro, Fortaleza",
-    "Endereço": "Rua Pedro Borges",
-    "Descrição": "Vaga de garagem.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 350",
-    "Aluguel": "Aluguel  de R$ 350",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aracapé, Fortaleza",
-    "Endereço": "Rua São João Batista",
-    "Descrição": "Excelente terreno com 3200m², fundo correspondente, esquina, a 500 metros da Av Mendel Steinbruch, no coração do Mondubim, ótimo para supermercados, academias, sede de empresas.",
-    "Contato": "Mensagem",
-    "Tamanho": "3200 m²",
-    "Preço Total": "Total R$ 7.000",
-    "Aluguel": "Aluguel  de R$ 7.000",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Aracapé, Fortaleza",
-    "Endereço": "Rua São João Batista",
-    "Descrição": "Excelente terreno com 3200m², fundo correspondente, esquina, a 500 metros da Av Mendel Steinbruch, no coração do Mondubim, ótimo para supermercados, academias, sede de empresas.",
-    "Contato": "Mensagem",
-    "Tamanho": "3200 m²",
-    "Preço Total": "Total R$ 7.000",
-    "Aluguel": "Aluguel  de R$ 7.000",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Cidade dos Funcionários, Fortaleza",
-    "Endereço": "Rua Pinheiro Maia",
-    "Descrição": "Ótimo Terreno muito bem localizado na Cidade dos Funcionários, na Rua Pinheiro Maia. 437,71m² de área total, piso em concreto, murado, com um vestiário e 1 quarto.",
-    "Contato": "Mensagem",
-    "Tamanho": "438 m²",
-    "Preço Total": "Total R$ 2.000",
-    "Aluguel": "Aluguel  de R$ 2.000",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Cidade dos Funcionários, Fortaleza",
-    "Endereço": "Rua Pinheiro Maia",
-    "Descrição": "Ótimo Terreno muito bem localizado na Cidade dos Funcionários, na Rua Pinheiro Maia. 437,71m² de área total, piso em concreto, murado, com um vestiário e 1 quarto.",
-    "Contato": "Mensagem",
-    "Tamanho": "438 m²",
-    "Preço Total": "Total R$ 2.000",
-    "Aluguel": "Aluguel  de R$ 2.000",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Jangurussu, Fortaleza",
-    "Endereço": "Rua Rio Jordão",
-    "Descrição": "Terreno medindo 15 x 11 metros, com 1 suíte, sala, cozinha e área de serviço, excelente para depósitos, oficinas, murado, localização privilegiada.",
-    "Contato": "Mensagem",
-    "Tamanho": "165 m²",
-    "Preço Total": "Total R$ 800",
-    "Aluguel": "Aluguel  de R$ 800",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Jangurussu, Fortaleza",
-    "Endereço": "Rua Rio Jordão",
-    "Descrição": "Terreno medindo 15 x 11 metros, com 1 suíte, sala, cozinha e área de serviço, excelente para depósitos, oficinas, murado, localização privilegiada.",
-    "Contato": "Mensagem",
-    "Tamanho": "165 m²",
-    "Preço Total": "Total R$ 800",
-    "Aluguel": "Aluguel  de R$ 800",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Vila União, Fortaleza",
-    "Endereço": "Avenida Lauro Vieira Chaves",
-    "Descrição": "Terreno de 3500m² com escritório, vestiário, wc social. Próximo ao antigo Aeroporto.",
-    "Contato": "Mensagem",
-    "Tamanho": "3500 m²",
-    "Preço Total": "Total R$ 8.000",
-    "Aluguel": "Aluguel  de R$ 8.000",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Vila União, Fortaleza",
-    "Endereço": "Avenida Lauro Vieira Chaves",
-    "Descrição": "Terreno de 3500m² com escritório, vestiário, wc social. Próximo ao antigo Aeroporto.",
-    "Contato": "Mensagem",
-    "Tamanho": "3500 m²",
-    "Preço Total": "Total R$ 8.000",
-    "Aluguel": "Aluguel  de R$ 8.000",
-    "Destaques": "Destaque"
-  },
-  {
     "Localização": "Dionisio Torres, Fortaleza",
     "Endereço": "Avenida Pontes Vieira",
-    "Descrição": "VAGA DE GARAGEM ROTATIVA 12 - UNO MEDICAL & OFFICE",
+    "Descrição": "VAGA DE GARAGEM ROTATIVA 05 - UNO MEDICAL & OFFICE",
     "Contato": "Mensagem",
     "Tamanho": "6 m²",
     "Preço Total": "Total R$ 180",
@@ -412,7 +172,7 @@
   {
     "Localização": "Dionisio Torres, Fortaleza",
     "Endereço": "Avenida Pontes Vieira",
-    "Descrição": "VAGA DE GARAGEM ROTATIVA 12 - UNO MEDICAL & OFFICE",
+    "Descrição": "Garagem Vaga",
     "Contato": "Mensagem",
     "Tamanho": "6 m²",
     "Preço Total": "Total R$ 180",
@@ -420,224 +180,14 @@
     "Destaques": "Destaque"
   },
   {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
+    "Localização": "Engenheiro Luciano Cavalcante, Fortaleza",
+    "Endereço": "Rua Chico Feitosa do Cococi",
+    "Descrição": "GARAGEM para alugar no bairro LUCIANO CAVALCANTE",
     "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
+    "Tamanho": "5 m²",
+    "Preço Total": "Total R$ 200",
+    "Aluguel": "Aluguel  de R$ 200",
     "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 250",
-    "Aluguel": "Aluguel  de R$ 250",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 250",
-    "Aluguel": "Aluguel  de R$ 250",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Guararapes, Fortaleza",
-    "Endereço": "Avenida Coronel Miguel Dias",
-    "Descrição": "Excepcional terreno de 3200m² na esquina das vias Cel. Miguel Dias/Alm. Maximiniano da Fonsêca. 03 frentes. Próximo a Defensoria Pública, Camara Municipal e Fa7. Ideal para supermercados, concessionárias.",
-    "Contato": "Mensagem",
-    "Tamanho": "3200 m²",
-    "Preço Total": "Total R$ 25.000",
-    "Aluguel": "Aluguel  de R$ 25.000",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Guararapes, Fortaleza",
-    "Endereço": "Avenida Coronel Miguel Dias",
-    "Descrição": "Excepcional terreno de 3200m² na esquina das vias Cel. Miguel Dias/Alm. Maximiniano da Fonsêca. 03 frentes. Próximo a Defensoria Pública, Camara Municipal e Fa7. Ideal para supermercados, concessionárias.",
-    "Contato": "Mensagem",
-    "Tamanho": "3200 m²",
-    "Preço Total": "Total R$ 25.000",
-    "Aluguel": "Aluguel  de R$ 25.000",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Meireles, Fortaleza",
-    "Endereço": "Rua Pereira Valente",
-    "Descrição": "RUA PEREIRA VALENTE, 578, VAGAS 119, 120 E 121 na torre comercial PALLADIUM BUSINESS CENTER em plena Praça Portugal.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 700",
-    "Aluguel": "Aluguel  de R$ 700",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Meireles, Fortaleza",
-    "Endereço": "Rua Pereira Valente",
-    "Descrição": "RUA PEREIRA VALENTE, 578, VAGAS 119, 120 E 121 na torre comercial PALLADIUM BUSINESS CENTER em plena Praça Portugal.",
-    "Contato": "Mensagem",
-    "Tamanho": "6 m²",
-    "Preço Total": "Total R$ 700",
-    "Aluguel": "Aluguel  de R$ 700",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Jangurussu, Fortaleza",
-    "Endereço": "Rua Rio Jordão",
-    "Descrição": "Terreno medindo 15 x 11 metros, com 1 suíte, sala, cozinha e área de serviço, excelente para depósitos, oficinas, murado, localização privilegiada.",
-    "Contato": "Mensagem",
-    "Tamanho": "165 m²",
-    "Preço Total": "Total R$ 800",
-    "Aluguel": "Aluguel  de R$ 800",
-    "Destaques": "Super Destaque"
-  },
-  {
-    "Localização": "Jangurussu, Fortaleza",
-    "Endereço": "Rua Rio Jordão",
-    "Descrição": "Terreno medindo 15 x 11 metros, com 1 suíte, sala, cozinha e área de serviço, excelente para depósitos, oficinas, murado, localização privilegiada.",
-    "Contato": "Mensagem",
-    "Tamanho": "165 m²",
-    "Preço Total": "Total R$ 800",
-    "Aluguel": "Aluguel  de R$ 800",
-    "Destaques": "Super Destaque"
   },
   {
     "Localização": "Cidade dos Funcionários, Fortaleza",
@@ -650,143 +200,53 @@
     "Destaques": "Super Destaque"
   },
   {
-    "Localização": "Cidade dos Funcionários, Fortaleza",
-    "Endereço": "Rua Pinheiro Maia",
-    "Descrição": "Ótimo Terreno muito bem localizado na Cidade dos Funcionários, na Rua Pinheiro Maia. 437,71m² de área total, piso em concreto, murado, com um vestiário e 1 quarto.",
+    "Localização": "Papicu, Fortaleza",
+    "Endereço": "Rua Valdetário Mota",
+    "Descrição": "Excelente Terreno muito bem localizado no Papicu, próximo ao Terminal de Ônibus do Papicu. 6.500m², 3 frentes, murado, nascente. Ideal para diversas atividades.",
     "Contato": "Mensagem",
-    "Tamanho": "438 m²",
-    "Preço Total": "Total R$ 2.000",
-    "Aluguel": "Aluguel  de R$ 2.000",
+    "Tamanho": "6500 m²",
+    "Preço Total": "Total R$ 15.000",
+    "Aluguel": "Aluguel  de R$ 15.000",
     "Destaques": "Super Destaque"
   },
   {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
+    "Localização": "Dionisio Torres, Fortaleza",
+    "Endereço": "Avenida Pontes Vieira",
+    "Descrição": "VAGA DE GARAGEM ROTATIVA 10 - UNO MEDICAL & OFFICE",
     "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
+    "Tamanho": "6 m²",
     "Preço Total": "Total R$ 180",
     "Aluguel": "Aluguel  de R$ 180",
     "Destaques": "Destaque"
   },
   {
     "Localização": "Engenheiro Luciano Cavalcante, Fortaleza",
-    "Endereço": "Avenida Comodoro Estácio Brígido",
-    "Descrição": "Excelente Espaço para lojas ou quiosques no melhor do Luciano Cavalcante, espaço com 27m².",
+    "Endereço": "Rua Auristela Maia Farias",
+    "Descrição": "ESQUINA",
     "Contato": "Mensagem",
-    "Tamanho": "27 m²",
-    "Preço Total": "Total R$ 1.800",
-    "Aluguel": "Aluguel  de R$ 1.800",
+    "Tamanho": "4859 m²",
+    "Preço Total": "Total R$ 15.000",
+    "Aluguel": "Aluguel  de R$ 15.000",
     "Destaques": "Destaque"
+  },
+  {
+    "Localização": "Papicu, Fortaleza",
+    "Endereço": "Avenida Santos Dumont",
+    "Descrição": "GARAGEM para alugar no bairro PAPICU",
+    "Contato": "Mensagem",
+    "Tamanho": "8 m²",
+    "Preço Total": "Total R$ 350",
+    "Aluguel": "Aluguel  de R$ 350",
+    "Destaques": ""
   },
   {
     "Localização": "Engenheiro Luciano Cavalcante, Fortaleza",
-    "Endereço": "Avenida Comodoro Estácio Brígido",
-    "Descrição": "Excelente Espaço para lojas ou quiosques no melhor do Luciano Cavalcante, espaço com 27m².",
+    "Endereço": "Rua B",
+    "Descrição": "Conjunto de 02 Terrenos muito bem localizados na BR-116, com 1.050m² cada, totalizando área total de 2.100m², murado. Ideal para garagem de caminhões, galpões logísticos, depositos e muito mais.",
     "Contato": "Mensagem",
-    "Tamanho": "27 m²",
-    "Preço Total": "Total R$ 1.800",
-    "Aluguel": "Aluguel  de R$ 1.800",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 300",
-    "Aluguel": "Aluguel  de R$ 300",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 300",
-    "Aluguel": "Aluguel  de R$ 300",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Montese, Fortaleza",
-    "Endereço": "Rua Coronel Alexandrino",
-    "Descrição": "EXCELENTE GALPÃO NO MONTESE",
-    "Contato": "Mensagem",
-    "Tamanho": "330 m²",
-    "Preço Total": "Total R$ 4.000",
-    "Aluguel": "Aluguel  de R$ 4.000",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Montese, Fortaleza",
-    "Endereço": "Rua Coronel Alexandrino",
-    "Descrição": "EXCELENTE GALPÃO NO MONTESE",
-    "Contato": "Mensagem",
-    "Tamanho": "330 m²",
-    "Preço Total": "Total R$ 4.000",
-    "Aluguel": "Aluguel  de R$ 4.000",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "A Loja fica no Edifício Eliane, na Av Santos Dumont com Av Rui Barbosa, no térreo, tem 72 m2, 2 pisos e 1 banheiro. Carência de 1 mês",
-    "Contato": "Mensagem",
-    "Tamanho": "72 m²",
-    "Preço Total": "Total R$ 1.885",
-    "Aluguel": "Aluguel  de R$ 1.600",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "A Loja fica no Edifício Eliane, na Av Santos Dumont com Av Rui Barbosa, no térreo, tem 72 m2, 2 pisos e 1 banheiro. Carência de 1 mês",
-    "Contato": "Mensagem",
-    "Tamanho": "72 m²",
-    "Preço Total": "Total R$ 1.885",
-    "Aluguel": "Aluguel  de R$ 1.600",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
+    "Tamanho": "2100 m²",
+    "Preço Total": "Total R$ 5.000",
+    "Aluguel": "Aluguel  de R$ 5.000",
     "Destaques": "Destaque"
   },
   {
@@ -797,104 +257,44 @@
     "Tamanho": "",
     "Preço Total": "Total R$ 180",
     "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
+    "Destaques": ""
   },
   {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
+    "Localização": "José de Alencar, Fortaleza",
+    "Endereço": "Rua Maximino",
+    "Descrição": "Terreno com medidas de 24m X 30m, área total 720m².",
     "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Parque Dois Irmãos, Fortaleza",
-    "Endereço": "Rua Novo Brasil",
-    "Descrição": "Terreno com 27m de frente por 33m de fundo. A 500m da Av. Presidente Costa e Silva (Perimetral).",
-    "Contato": "Mensagem",
-    "Tamanho": "891 m²",
+    "Tamanho": "720 m²",
     "Preço Total": "Total R$ 1.500",
     "Aluguel": "Aluguel  de R$ 1.500",
     "Destaques": "Destaque"
   },
   {
-    "Localização": "Parque Dois Irmãos, Fortaleza",
-    "Endereço": "Rua Novo Brasil",
-    "Descrição": "Terreno com 27m de frente por 33m de fundo. A 500m da Av. Presidente Costa e Silva (Perimetral).",
-    "Contato": "Mensagem",
-    "Tamanho": "891 m²",
-    "Preço Total": "Total R$ 1.500",
-    "Aluguel": "Aluguel  de R$ 1.500",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
+    "Localização": "Papicu, Fortaleza",
     "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
+    "Descrição": "GARAGEM para alugar no bairro PAPICU",
     "Contato": "Mensagem",
     "Tamanho": "",
-    "Preço Total": "Total R$ 250",
-    "Aluguel": "Aluguel  de R$ 250",
+    "Preço Total": "Total R$ 200",
+    "Aluguel": "Aluguel  de R$ 200",
     "Destaques": ""
   },
   {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
+    "Localização": "José Bonifácio, Fortaleza",
+    "Endereço": "Rua Major Facundo",
+    "Descrição": "Oportunidade!!\n\nSeu negócio no centro da cidade, em uma área com movimento enorme de pedestres e automóveis, com uma área total de 380m²\n15 Box medindo 3x2 cada, local para lanchonete com entrada independente do prédio\nVamos agendar uma visita !! -",
     "Contato": "Mensagem",
     "Tamanho": "",
-    "Preço Total": "Total R$ 250",
-    "Aluguel": "Aluguel  de R$ 250",
+    "Preço Total": "Total R$ 5.000",
+    "Aluguel": "Aluguel  de R$ 5.000",
     "Destaques": ""
   },
   {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
+    "Localização": "Dionisio Torres, Fortaleza",
+    "Endereço": "Avenida Pontes Vieira",
+    "Descrição": "VAGA DE GARAGEM ROTATIVA 17 - UNO MEDICAL & OFFICE",
     "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": ""
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
-    "Preço Total": "Total R$ 180",
-    "Aluguel": "Aluguel  de R$ 180",
-    "Destaques": "Destaque"
-  },
-  {
-    "Localização": "Aldeota, Fortaleza",
-    "Endereço": "Avenida Santos Dumont",
-    "Descrição": "GARAGEM para alugar no bairro ALDEOTA",
-    "Contato": "Mensagem",
-    "Tamanho": "",
+    "Tamanho": "6 m²",
     "Preço Total": "Total R$ 180",
     "Aluguel": "Aluguel  de R$ 180",
     "Destaques": "Destaque"
