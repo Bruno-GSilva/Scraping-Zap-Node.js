@@ -1,9 +1,12 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
+const iPhone = puppeteer.KnownDevices['iPad'];
 
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
+  
+  await page.emulate(iPhone)
 
   const totalPages = 3;
   const allPropertyData = new Set();
@@ -43,7 +46,9 @@ const fs = require("fs");
           ? contactElement.textContent.trim()
           : "";
 
-        const sizeElement = item.querySelector(".card__amenities .card__amenity");
+        const sizeElement = item.querySelector(
+          ".card__amenities .card__amenity"
+        );
         propertyInfo["Tamanho"] = sizeElement
           ? sizeElement.textContent.trim()
           : "";
@@ -84,10 +89,14 @@ const fs = require("fs");
     JSON.parse(jsonString)
   );
 
-  fs.writeFileSync("card.json", JSON.stringify(uniquePropertyData, null, 2), (err) => {
-    if (err) throw new Error("error");
-    console.log("done!");
-  });
+  fs.writeFileSync(
+    "card.json",
+    JSON.stringify(uniquePropertyData, null, 2),
+    (err) => {
+      if (err) throw new Error("error");
+      console.log("done!");
+    }
+  );
 
   await browser.close();
 })();
